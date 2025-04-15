@@ -11,7 +11,7 @@
         android:layout_height="wrap_content">
 
         <TextView
-            android:text="Unit Converter"
+            android:text="Unit Converter App"
             android:textSize="26sp"
             android:textStyle="bold"
             android:textColor="#FF6F00"
